@@ -81,7 +81,7 @@ Please feel free to report bugs and add new features via PRs if you like.
 
 # Thanks To
 
-This faucet contains parts of code from the following projects:
+This f
 
 [pow-captcha](https://git.sequentialread.com/forest/pow-captcha) - faucet-wasm build script
 
