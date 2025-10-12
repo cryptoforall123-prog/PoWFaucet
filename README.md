@@ -22,7 +22,7 @@ For a more detailed description, take a look into the [Project Wiki](https://git
 # Instances
 
 <table>
-  <thead>
+  <>
     <tr>
       <th>Testnet</th>
       <th>Link</th>
