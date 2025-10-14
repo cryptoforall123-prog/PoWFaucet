@@ -9,7 +9,7 @@ Modularized faucet for EVM chains with different protection methods (Captcha, Mi
 
 # Why
 
-Faucets for ETH Testnets are spammed by bots. This faucet tries to reduce the efficiency of these automated requests by various protection methods.
+Faucets for ETH Testnets are spammed by bots. This faucet tries to reduce the efficiency of these automated requests by various protection .
 
 This faucet is mostly known for its proof-of-work based protection, which is currently the best and most reliable way to distribute funds on a network that got low on fund reserves.
 
