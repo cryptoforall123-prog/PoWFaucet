@@ -28,7 +28,7 @@ For a more detailed description, take a look into the [Project Wiki](https://git
       <th>Link</th>
       <th></th>
     </tr>
-  </thead>
+  </>
   <tbody>
     <tr>
       <td><a href="https://github.com/eth-clients/sepolia">Sepolia Testnet</a></td>
